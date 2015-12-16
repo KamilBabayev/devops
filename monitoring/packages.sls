@@ -5,6 +5,7 @@ monitoring_packages:
                 - zabbix-server-mysql
                 - zabbix-web-mysql
                 - mysql-server
+                - mysql
 		- MySQL-python
                 - monit
         service
