@@ -1,0 +1,15 @@
+base:
+  '*':
+    - common
+
+salt:
+   'salt':
+      - salt
+
+web:
+  'web':
+     - web
+
+monitoring:
+    'monitoring':
+	- monitoring
