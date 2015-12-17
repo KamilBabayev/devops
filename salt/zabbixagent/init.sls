@@ -1,0 +1,2 @@
+include:
+  - zabbixagent.zabbixagentpkg

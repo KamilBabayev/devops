@@ -1,0 +1,3 @@
+192.168.50.10   saltmaster   salt
+192.168.50.11   web
+192.168.50.12   monitoring
